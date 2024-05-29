@@ -30,7 +30,7 @@ const url = "https://Princy.com/Princy15verma"
 
 console.log(url.replace('%15','-'))
 
-console.log(url.includes('verma'))
+console.log(url.includes('verma')) 
 
 
 
