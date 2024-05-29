@@ -22,3 +22,21 @@ console.log(newString);
 const anotherString = gameName.slice(-8, 4)
 console.log(anotherString);
 
+const newStringOne = "    Princy        "
+console.log(newStringOne);
+console.log(newStringOne.trim());
+
+const url = "https://Princy.com/Princy15verma"
+
+console.log(url.replace('%15','-'))
+
+console.log(url.includes('verma'))
+
+
+
+
+
+
+
+
+
