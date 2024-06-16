@@ -68,9 +68,15 @@ const {courseInstructor:instructor} = course
 // console.log(courseInstructor);
 console.log(instructor);
 
+// {
+//     "name": "Princy"
+//     "coursename": "js in hindi"
+//     "prize": "free"
+// }
 
-const navbar = (props.comapany) => {
+[
+    {},
+    {},
+    {},
+]
 
-
-}
-navbar(campany = "Princy")
